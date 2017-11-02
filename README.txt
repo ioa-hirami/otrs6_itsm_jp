@@ -7,15 +7,20 @@ OTRS6 Helpdeskに追加モジュール及びITSM関連モジュールを追加�
 OTRS 6.0.0 beta 3
 
 - OTRS Addons -
+FAQ-5.0.91.opm
+Survey-5.0.91.opm
+SystemMonitoring-5.0.91.opm
+TimeAccounting-5.0.91.opm
+OTRSMasterSlave-5.0.91.opm
 
 - ITSM -
-GeneralCatalog 5.0.29
-ImportExport 5.0.29
-ITSMChangeManagement 5.0.29
-ITSMConfigurationManagement 5.0.29
-ITSMCore 5.0.29
-ITSMIncidentProblemManagement 5.0.29
-ITSMServiceLevelManagement 5.0.29
+GeneralCatalog-5.0.93.opm
+ImportExport-5.0.93.opm
+ITSMCore-5.0.93.opm
+ITSMChangeManagement-5.0.93.opm
+ITSMConfigurationManagement-5.0.93.opm
+ITSMIncidentProblemManagement-5.0.93.opm
+ITSMServiceLevelManagement-5.0.93.opm
 
 実行は以下のようにしてください。
 docker run -d -p <ポート>:80 docker.io/ioarchitectjp/otrs5_itsm_jp
