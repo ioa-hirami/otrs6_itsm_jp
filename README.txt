@@ -4,24 +4,26 @@ OTRS6 Helpdeskに追加モジュール及びITSM関連モジュールを追加�
 
 各モジュールのバージョンは以下の通りです。
 
-OTRS 6.0.16
+OTRS 6.0.17
 
 - OTRS Addons -
-FAQ-6.0.16.opm
-Survey-6.0.10.opm
+
+FAQ-6.0.17.opm
+Survey-6.0.11.opm
 SystemMonitoring-6.0.6.opm
-TimeAccounting-6.0.10.opm
-OTRSMasterSlave-6.0.12.opm
+TimeAccounting-6.0.11.opm
+OTRSMasterSlave-6.0.13.opm
+
 
 - ITSM -
 
-GeneralCatalog-6.0.16.opm
-ImportExport-6.0.16.opm
-ITSMCore-6.0.16.opm
-ITSMChangeManagement-6.0.16.opm
-ITSMConfigurationManagement-6.0.16.opm
-ITSMIncidentProblemManagement-6.0.16.opm
-ITSMServiceLevelManagement-6.0.16.opm
+GeneralCatalog-6.0.17.opm
+ImportExport-6.0.17.opm
+ITSMCore-6.0.17.opm
+ITSMChangeManagement-6.0.17.opm
+ITSMConfigurationManagement-6.0.17.opm
+ITSMIncidentProblemManagement-6.0.17.opm
+ITSMServiceLevelManagement-6.0.17.opm
 
 
 実行は以下のようにしてください。
